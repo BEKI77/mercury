@@ -1,2 +1,2 @@
 # mercury
-This repo is dedicated to my web projectes!!!!
+This repo is dedicated for my web projectes!!!!
